@@ -26,11 +26,11 @@
  @import url(http://fonts.googleapis.com/earlyaccess/cwtexhei.css);
 
 
-
  body {
    min-height: 100%;
    position: relative;
    background-color: rgb(250,246,236);
+   overflow-x: hidden;
  }
 
  /* common flash */
